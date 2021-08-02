@@ -1,2 +1,3 @@
-# Birthday-Luck-2
-Created with CodeSandbox
+# Birthday Luck
+
+Check if your birthday is lucky or not!
